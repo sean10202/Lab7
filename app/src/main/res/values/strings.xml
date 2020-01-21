@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Lab7</string>
+
+    <integer-array name="resourceList">
+        <item>@drawable/calendar</item>
+        <item>@drawable/camera</item>
+        <item>@drawable/chat</item>
+        <item>@drawable/checklist</item>
+        <item>@drawable/clocks</item>
+        <item>@drawable/content</item>
+        <item>@drawable/folder</item>
+        <item>@drawable/location</item>
+        <item>@drawable/mail</item>
+        <item>@drawable/news</item>
+        <item>@drawable/note</item>
+        <item>@drawable/settings</item>
+    </integer-array>
+</resources>
